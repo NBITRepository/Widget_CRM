@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Crm Screen Pop",
+    "description": "Please add widget description here",
+    "tags": "demo, widget, example, other",
+    "library": "My library",
+    "version": "1.0.0",
+    "date": "2022-06-26T11:59:55.547Z",
+    "id": "27b07be6-af60-42e4-86f9-d01d38332970"
+  },
+  "configuration": {
+    "external": true,
+    "timeout": 5000,
+    "serie": true,
+    "name": "27b07be6-af60-42e4-86f9-d01d38332970",
+    "element": "<Crm-Screen-Pop></Crm-Screen-Pop>",
+    "icon": "aoc-home",
+    "files": ["Crm-Screen-Pop/Crm-Screen-Pop.css", "Crm-Screen-Pop/Crm-Screen-Pop.js","Crm-Screen-Pop/Crm-Screen-Pop-config.js"]
+  }
+}
